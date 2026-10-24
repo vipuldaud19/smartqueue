@@ -1,0 +1,6 @@
+com\smartqueue\model\QueueToken.class
+com\smartqueue\SmartQueueApplication.class
+com\smartqueue\controller\QueueTokenController.class
+com\smartqueue\dto\UpdateStatusRequest.class
+com\smartqueue\dto\CreateTokenRequest.class
+com\smartqueue\repository\QueueTokenRepository.class
